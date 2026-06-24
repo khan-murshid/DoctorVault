@@ -3,7 +3,7 @@ import { Bot, Send } from 'lucide-react';
 import OpenAI from 'openai';
 
 const client = new OpenAI({
-  apiKey: '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',
+  apiKey: '                         ',
   baseURL: 'https://api.groq.com/openai/v1',
   dangerouslyAllowBrowser: true,
 });
